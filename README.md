@@ -1,7 +1,6 @@
 ``` bash
 彭信个人纯文本站ヾ(❀╹◡╹)ﾉ
 ```
-[![主页](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://www.pengxin.mycool.net)
 
 暑假时间轴🤗
 
@@ -140,7 +139,8 @@ overlord/异世界四重奏/
 早上梦见一个初中同学，差点破戒，吓死我了。
 Github博客开通。  
 
-
-
+``` bash
+©2017-2019 彭信同学
+```
 <div id="footer">
-	<p>© 2017-2019 彭信<br><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">粤ICP备19868885号</a><br>  
+	<p><br><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">粤ICP备19868885号</a><br>  
