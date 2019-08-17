@@ -1,5 +1,5 @@
 
 
-彭信个人博客页
-http://web.yms7.com/web.php?id=L09ElrA
+彭信个人小破站
+http://www.pengxin.mycool.net
 
