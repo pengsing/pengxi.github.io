@@ -3,8 +3,7 @@
 彭信个人纯文本站ヾ(❀╹◡╹)ﾉ~
 
 暑假时间轴
-<a herf="…"></a>
-Background=
+
 7月3日 周三
 我去QQ找高中的新生群。然后发现他们是傻屌。一点价值也没有。
 然后三分热度开始准备重新建立新の学习群帝国。（以便日后人流量之须）因为我不清楚流量对我日后生活的影响是什么。我深谙其重要性。
@@ -142,8 +141,4 @@ overlord/异世界四重奏/
 Github博客开通。  
 
 <div id="footer">
-	<p>© 2019-2019彭信<br>新新主义萌芽的地方<br><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">粤ICP备11008023号-1</a><br><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42018502002747" target="_blank" rel="external nofollow">鄂公网安备42018502002747号</a><br><script>//document.write(navigator.userAgent)</script></p>
-	<!-- 3 queries. 0.462 seconds. -->
-</div>
-
-</body></html>       
+	<p>© 2019-2019彭信<br>新新主义萌芽的地方<br><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">粤ICP备11008023号-1</a><br>  
