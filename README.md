@@ -140,5 +140,7 @@ overlord/异世界四重奏/
 
 Github博客开通。  
 
+
+
 <div id="footer">
-	<p>© 2019-2019彭信<br>新新主义萌芽的地方<br><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">粤ICP备11008023号-1</a><br>  
+	<p>© 2017-2019彭信<br><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">粤ICP备19868885号</a><br>  
