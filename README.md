@@ -2,7 +2,9 @@
 
 彭信个人纯文本站ヾ(❀╹◡╹)ﾉ~
 
-暑假时间轴
+[![主页](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://www.pengxin.mycool.net)
+
+暑假时间轴🤗
 
 7月3日 周三
 我去QQ找高中的新生群。然后发现他们是傻屌。一点价值也没有。
