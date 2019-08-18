@@ -4,6 +4,13 @@
 ![freeCodeCamp.org 
 ](https://s2.ax1x.com/2019/08/18/mKLjmV.jpg)
 
+<details open>
+  <summary><b>说明</b></summary>
+
+>This is the daily life of Peng Xin and the world of sand sculpture.
+
+</details>
+
 <details>
   微信：px86ax<summary><b>联系方式</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="联系方式" style="max-width:100%;">
@@ -14,7 +21,7 @@
 <summary>2019の暑假篇</summary>
 
 
-7月1-2日（交代这个博客相关沙雕设定）
+>>7月1-2日（交代这个博客相关沙雕设定）
 
 说什么哒：这将是一场关于我和呕呕霉霉世界的日常。
 
