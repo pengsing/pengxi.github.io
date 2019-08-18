@@ -112,11 +112,13 @@ Loser音译就是 撸者
 8月17日 周一 早上梦见一个初中同学，差点破戒，吓死我了。 Github博客开通。这是多年番。
 </details>
 
+<details>
+  <summary><b>Anime印象</b></summary>
+  <img src="https://is2.4chan.org/c/1565667187305.png" alt="Anime印象" style="max-width:100%;">
+</details>
 
 
 
-![
-](https://is2.4chan.org/c/1565667187305.png)
 
 ``` bash
 ©2017-2019 彭信同学
