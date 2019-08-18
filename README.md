@@ -7,7 +7,7 @@
 <details open>
   <summary><b>说明</b></summary>
 
-`This is the daily life of Peng Xin and the world of sand sculpture.`
+这里是我的沙雕日常网站，欢迎访问。
 
 </details>
 
