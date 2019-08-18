@@ -152,7 +152,7 @@ overlord/异世界四重奏/
 Github博客开通。  
 
 ![
-](https://i.4cdn.org/c/1565495035454s.jpg)
+](https://is2.4chan.org/c/1565667187305.png)
 
 ``` bash
 ©2017-2019 彭信同学
