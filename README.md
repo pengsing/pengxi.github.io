@@ -16,6 +16,11 @@
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="联系方式" style="max-width:100%;">
 </details>
 
+<details>
+  <summary><b>情感经历</b></summary>
+如果要说真正的交往，真没有。
+</details>
+
 
 <details>
 <summary>主义</summary>
@@ -23,9 +28,13 @@
 
 </details>
 
-</details>
+<details>
 <summary>基本信息</summary>
+
 男，户口年龄17，实际15,马，生日8月7日，47kg，身高17+，声线2,右利手，左利耳，弱视严重。从手足口病开始胃出现问题。
+
+</details>
+
 <details>
 <summary>2019の暑假篇</summary>
 7月1-2日
