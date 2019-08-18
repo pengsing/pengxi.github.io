@@ -7,21 +7,25 @@
 <details open>
   <summary><b>说明</b></summary>
 
-这里是我的沙雕博客页。主要是满足那些充满好奇心的猫。
+这里是我的沙雕博客页。专门满足你们这类充满好奇心的猫。
 
 </details>
 
 <details>
-  <summary><b>联系方式</b></summary>
+  <summary><b>微信</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="联系方式" style="max-width:100%;">
 </details>
 
+
 <details>
 <summary>主义</summary>
-我是新新主义青年，喜欢接触新东西，有一套完善的做人处事准则，西方式三观。
+我是新新主义青年，4chan匿名用户，9gager,redditer,煎蛋摸鱼族，天涯社区政客，Spotifyer,twitterer,喜欢接触新东西，做事讲究，新西方式三观。
 
 </details>
 
+</details>
+<summary>基本信息</summary>
+男，户口年龄17，实际15,马，生日8月7日，47kg，身高17+，声线2,右利手，左利耳，弱视严重。从手足口病开始胃出现问题。
 <details>
 <summary>2019の暑假篇</summary>
 7月1-2日
