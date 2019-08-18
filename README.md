@@ -7,15 +7,20 @@
 <details open>
   <summary><b>说明</b></summary>
 
-这里是我的沙雕日常网站，欢迎访问。
+这里是我的沙雕博客页。主要是满足那些充满好奇心的猫。
 
 </details>
 
 <details>
-  微信：px86ax<summary><b>联系方式</b></summary>
+  <summary><b>联系方式</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="联系方式" style="max-width:100%;">
 </details>
 
+<details>
+<summary>主义</summary>
+我是新新主义青年，喜欢接触新东西，有一套完善的做人处事准则，西方式三观。
+
+</details>
 
 <details>
 <summary>2019の暑假篇</summary>
