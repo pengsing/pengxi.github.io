@@ -7,7 +7,7 @@
 <details open>
   <summary><b>说明</b></summary>
 
->`This is the daily life of Peng Xin and the world of sand sculpture.`
+`This is the daily life of Peng Xin and the world of sand sculpture.`
 
 </details>
 
