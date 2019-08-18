@@ -5,15 +5,15 @@
 ](https://s2.ax1x.com/2019/08/18/mKLjmV.jpg)
 
 <details open>
-  <summary><b>说明</b></summary>
+  <summary><b>默认开页</b></summary>
 
-这里是我的沙雕博客页。专门满足你们这类充满好奇心的猫。
+这里是我的沙雕博客页啦。专门满足你们这类充满好奇心的猫。
 
 </details>
 
 <details>
   <summary><b>微信</b></summary>
-  <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="联系方式" style="max-width:100%;">
+  <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="微信" style="max-width:100%;">
 </details>
 
 <details>
@@ -23,15 +23,19 @@
 
 
 <details>
-<summary>主义</summary>
-我是新新主义青年，4chan匿名用户，9gager,redditer,煎蛋摸鱼族，天涯社区政客，Spotifyer,twitterer,喜欢接触新东西，做事讲究，新西方式三观。
+<summary>主义及加入组织</summary>
+我是新新主义青年，诞生于：4chan匿名用户（16年加入），9gager（17年加入）,redditer（18年加入）,煎蛋摸鱼族（18年加入），戒色吧（2019年加入），天涯社区政客（19年加入），Spotifyer（18年加入）,twitterer（17年加入）,喜欢接触新东西，做事讲究，新西方式三观。
+
+加入组织：广东省六年级研讨中心（15加入，17年退出）
+中国初一唯心协会（16年加速，18年退出，19年重新加入）
+曾经做过字幕组锲字后弃坑，做过P站画师，汤不热博主，私摄，本子售卖处，虚拟货物小店，网课售卖，meme汉化组...
 
 </details>
 
 <details>
 <summary>基本信息</summary>
 
-男，户口年龄17，实际15,马，生日8月7日，47kg，身高17+，声线2,右利手，左利耳，弱视严重。从手足口病开始胃出现问题。
+男，户口姓名,彭信。我身边的人都用 信 字简称我。户口年龄17，实际15,生肖马，生日7月8日，47kg，身高17+，声线2,右利手，左利耳，弱视严重。从手足口病开始胃，肠出现问题。早期神经官能症。
 
 </details>
 
