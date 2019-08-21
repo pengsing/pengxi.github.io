@@ -7,7 +7,7 @@
 <details open>
   <summary><b>默认开页</b></summary>
 
-这里是我的沙雕博客页啦。专门满足你们这类充满好奇心的猫。
+高一新篇開始~
 
 </details>
 
@@ -109,14 +109,6 @@ p8对立问题。 研究打点计时器。
 
 
 </details>
-
-<details>
-  <summary><b>Anime印象</b></summary>
-  <img src="https://is2.4chan.org/c/1565667187305.png" alt="Anime印象" style="max-width:100%;">
-</details>  
-
-
-
 ``` bash
 ©2017-2019 喵喵同學博客
 ```
