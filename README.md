@@ -3,7 +3,6 @@
 
 <details open>
   <summary><b>默認開業</b></summary>
-
 高一新篇開始~
 </details>
 
