@@ -5,14 +5,14 @@
 ](https://is2.4chan.org/wsg/1564093427513.gif)
 
 <details open>
-  <summary><b>默认开页</b></summary>
+  <summary><b>默認開業</b></summary>
 
 高一新篇開始~
 
 </details>
 
 <details>
-  <summary><b>微信</b></summary>
+  <summary><b>聯繫</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="微信" style="max-width:100%;">
 </details>
 
@@ -111,5 +111,5 @@ p8对立问题。 研究打点计时器。
 </details>  
 
 ``` bash
-©2017-2019 喵喵同學日誌博客
+©2017-2019 喵喵同學日誌
 ```
