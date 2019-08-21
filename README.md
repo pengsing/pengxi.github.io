@@ -5,12 +5,13 @@
   <summary><b>默認開業</b></summary>
 
 高一新篇開始~
+</details>
 
 ![freeCodeCamp.org
 ](https://tb2.bdstatic.com/tb/editor/images/client/image_emoticon25.png)
 
 八月二十日週三
-換了新的手機號  
+換了新的手機號
 
 ![freeCodeCamp.org
 ](https://s2.ax1x.com/2019/08/21/maCk2F.md.png)
@@ -18,9 +19,8 @@
 原來的用不了啦
 
 八月十九周二
-戒色走出一個月怪圈。值得我留念。
+走出一個月循環怪圈✔。值得我留念。
 
-</details>
 
 <details>
   <summary><b>聯繫</b></summary>
