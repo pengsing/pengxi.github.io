@@ -4,6 +4,9 @@
 ![freeCodeCamp.org 
 ](https://s2.ax1x.com/2019/08/18/mKLjmV.jpg)
 
+![freeCodeCamp.org
+](https://is2.4chan.org/wsg/1564093427513.gif)
+
 <details open>
   <summary><b>默认开页</b></summary>
 
