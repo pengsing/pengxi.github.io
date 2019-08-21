@@ -1,5 +1,6 @@
 ``` bash
-信信の日常ヾ(❀╹◡╹)ﾉ            今日博客访问量：99+
+信信の日常
+
 ```
 ![freeCodeCamp.org
 ](https://is2.4chan.org/wsg/1564093427513.gif)
@@ -8,6 +9,8 @@
   <summary><b>默認開業</b></summary>
 
 高一新篇開始~
+![freeCodeCamp.org
+](https://tb2.bdstatic.com/tb/editor/images/client/image_emoticon25.png)
 
 </details>
 
