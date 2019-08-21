@@ -1,7 +1,3 @@
-``` bash
-信信の日常
-
-```
 ![freeCodeCamp.org
 ](https://is2.4chan.org/wsg/1564093427513.gif)
 
@@ -11,6 +7,8 @@
 高一新篇開始~
 ![freeCodeCamp.org
 ](https://tb2.bdstatic.com/tb/editor/images/client/image_emoticon25.png)
+
+八月二十日週三
 
 </details>
 
