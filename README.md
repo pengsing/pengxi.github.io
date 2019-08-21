@@ -1,9 +1,6 @@
 ``` bash
 信信の日常ヾ(❀╹◡╹)ﾉ            今日博客访问量：99+
 ```
-![freeCodeCamp.org 
-](https://s2.ax1x.com/2019/08/18/mKLjmV.jpg)
-
 ![freeCodeCamp.org
 ](https://is2.4chan.org/wsg/1564093427513.gif)
 
@@ -17,29 +14,6 @@
 <details>
   <summary><b>微信</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="微信" style="max-width:100%;">
-</details>
-
-<details>
-  <summary><b>情感经历</b></summary>
-如果要说真正的交往，真没有。
-</details>
-
-
-<details>
-<summary>主义及加入组织</summary>
-我是新新主义青年，诞生于：4chan匿名用户（16年加入），9gager（17年加入）,redditer（18年加入）,煎蛋摸鱼族（18年加入），戒色吧（2019年加入），天涯社区政客（19年加入），Spotifyer（18年加入）,twitterer（17年加入）,喜欢接触新东西，做事讲究，新西方式三观。
-
-加入组织：广东省六年级研讨中心（15加入，17年退出）
-中国初一唯心协会（16年加入，18年退出，19年重新加入）
-曾经做过动漫/漫画/美剧/美剧动画字幕组锲字后弃坑，做过P站画师弃坑，汤不热博主弃坑，私摄弃坑，维基百科志愿者弃坑，萌娘志愿者弃坑，飞翔志愿者720，本子售卖处弃坑，虚拟货物小店弃坑，网课售卖弃坑，meme汉化组弃坑，自媒体弃坑，微博漫画壁纸博主弃坑...
-
-</details>
-
-<details>
-<summary>基本信息</summary>
-
-男，户口姓名,彭信。我身边的人都用 信 字简称我。户口年龄17，实际15,生肖马，生日7月8日，47kg，身高17+，声线2,右利手，左利耳，弱视严重。从手足口病开始胃，肠出现问题。早期神经官能症。
-
 </details>
 
 <details>
@@ -144,7 +118,5 @@ p8对立问题。 研究打点计时器。
 
 
 ``` bash
-©2017-2019 彭信同学
+©2017-2019 喵喵同學博客
 ```
-<div id="footer">
-	<p><br><a href="http://www.beian.miit.gov.cn/" target="_blank" rel="external nofollow">粤ICP备19868885号</a><br>  
