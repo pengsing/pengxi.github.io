@@ -9,7 +9,7 @@
 ![freeCodeCamp.org
 ](https://tb2.bdstatic.com/tb/editor/images/client/image_emoticon25.png)
 
-八月二十日週三
+8月20日周三  
 換了新的手機號
 
 ![freeCodeCamp.org
@@ -17,9 +17,12 @@
 
 原來的用不了啦
 
-八月十九周二
-走出一個月循環怪圈✔。值得我留念。
+8月19日 周二  
+走出一個月循環怪圈✔。值得我留念。  
+`念頭管理/情緒管理/視線管理/言行管理。`
 
+8月18日 周一
+習慣Markdown編輯。
 
 <details>
   <summary><b>聯繫</b></summary>
