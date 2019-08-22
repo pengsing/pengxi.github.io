@@ -1,5 +1,5 @@
-![danger.gif
-](https://i.loli.net/2019/08/22/OCR7J5K8nmjHgUV.gif)
+![1565721401860.gif
+](https://i.loli.net/2019/08/22/nEiKBQVxPU4vcYf.gif)
 
 <details open>
   <summary><b>默認開業</b></summary>
