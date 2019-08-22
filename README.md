@@ -5,11 +5,10 @@
   <summary><b>默認開業</b></summary>
 高一新篇開始~
 </details>
+8月22日 周四  
+看了fate stay night hf第二章
 
-![freeCodeCamp.org
-](https://tb2.bdstatic.com/tb/editor/images/client/image_emoticon25.png)
-
-8月21日周三  
+8月21日 周三  
 換了新的手機號
 
 ![freeCodeCamp.org
