@@ -4,7 +4,7 @@
 <details open>
   <summary><b>默認開業</b></summary>
 高一新篇開始~
-</details>
+
 8月22日 周四  
 看了fate stay night hf第二章
 
@@ -22,6 +22,8 @@
 
 8月18-19日 周一  
 習慣了Md編輯。
+</details>
+
 
 <details>
   <summary><b>聯繫</b></summary>
@@ -123,5 +125,5 @@ p8对立问题。 研究打点计时器。
 </details>  
 
 ``` bash
-©2017-2019 喵喵同學日誌
+©2017-2019 喵喵同學线索
 ```
