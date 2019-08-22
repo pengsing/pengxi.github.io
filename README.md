@@ -1,5 +1,5 @@
-![freeCodeCamp.org
-](https://i.loli.net/2019/08/21/ZSHFlhgrajpG6K8.gif)
+![danger.gif
+](https://i.loli.net/2019/08/22/OCR7J5K8nmjHgUV.gif)
 
 <details open>
   <summary><b>默認開業</b></summary>
