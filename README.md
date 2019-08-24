@@ -3,8 +3,15 @@
 
 <details open>
   <summary><b>默認開業</b></summary>
-高一新篇開始~
+
+Peng Xin’s personal blog page records the moments of life, sharing the experience of learning, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.
+
+ Love life, love to learn, love philosophy, and like to touch new things.
+ Everything in life, laughing and opening, adhering to oneself, cautiously acting alone.
+
+ Blog home page jumps to www.pengxin.mycool.net
 </details>  
+高一新篇開始~~~
 8月23日
 看了金木研第一季。  
 
