@@ -1,5 +1,5 @@
 ![1565721401860.gif
-](https://i.loli.net/2019/08/22/nEiKBQVxPU4vcYf.gif)
+](https://i.loli.net/2019/08/22/nEiKBQVxPU4vcYf.gif)  
 
 <details open>
   <summary><b>默認開業</b></summary>
@@ -123,11 +123,11 @@ p8对立问题。 研究打点计时器。
 补《给桃子的信》，人老了喜欢看治愈番。 
 
 8月17日 周一 
-早上梦见一个初中同学，差点破戒，吓死我了。 Github博客开通。这是多年番。
+早上梦见一个初中同学，差点破戒，吓死我了。 博客开通。
 
 
 </details>  
 
 ``` bash
-©2017-2019 喵喵同學日记
+©2017-2019 喵喵同學
 ```
