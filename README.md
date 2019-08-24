@@ -2,7 +2,7 @@
 ](https://i.loli.net/2019/08/22/nEiKBQVxPU4vcYf.gif)  
 
 <details open>
-  <summary><b>默認開業</b></summary>
+  <summary><b>博客介紹細節</b></summary>
 
 Peng Xin’s personal blog page records the moments of life, sharing the experience of learning, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.
 
@@ -11,7 +11,7 @@ Peng Xin’s personal blog page records the moments of life, sharing the experie
 
  Blog home page jumps to www.pengxin.mycool.net
 </details>  
-高一新篇開始~~~
+高一新篇開始~~~  
 8月23日
 看了金木研第一季。  
 
