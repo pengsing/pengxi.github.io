@@ -5,6 +5,12 @@
   <summary><b>默認開業</b></summary>
 高一新篇開始~
 </details>  
+8月23日
+看了金木研第一季。  
+
+准备开学考试。  
+
+询问搭车到高中去向。
 8月22日 周四  
 看了fate stay night hf第二章
 
