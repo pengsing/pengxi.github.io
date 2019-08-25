@@ -1,6 +1,14 @@
 ![1565721401860.gif
 ](https://i.loli.net/2019/08/22/nEiKBQVxPU4vcYf.gif)  
 
+<details>
+<summary>前提</summary>
+①为方便我个人记录，本博客默认可以引用我周围人真实姓名及图片。
+
+②如果不同意以上可以加微信px86ax,进行删除相关。  
+
+</details>
+
 <details open>
   <summary><b>博客介紹細節</b></summary>
 
