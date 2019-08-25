@@ -14,7 +14,10 @@ Peng Xin’s personal blog page records the moments of life, sharing the experie
 
 Blog home page jumps to   
 [www.pengxin.mycool.net
-](http://www.pengxin.mycool.net)
+](http://www.pengxin.mycool.net)  
+
+[![NPM version
+](https://s2.ax1x.com/2019/08/25/mcxS8s.png)](https://www.lanzous.com/i5sai1c)  
 ```bash   
 2019の高一新篇開啦 
 新的開始
