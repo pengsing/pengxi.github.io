@@ -16,14 +16,26 @@ Peng Xin’s personal blog page records the moments of life, sharing the experie
 2019の高一新篇開啦 
 新的開始
 ```  
-8月23日  
+8月24日 周六  
+东京喰种  
+![1566701550285.png
+](https://i.loli.net/2019/08/25/Bz2RLrbMZ8tAe3x.png)  
+
+![freeCodeCamp.org
+](https://s2.ax1x.com/2019/08/25/mcfltS.png)
+
+8月23日 周五  
 看了金木研第一季。  
 
 准备开学考试。  
 
 询问搭车到高中去向。  
 8月22日 周四  
-看了fate stay night hf第二章
+看了fate stay night hf第二章  
+
+![1566702715806.png
+](https://i.loli.net/2019/08/25/MvXZL7Ir3uGmdpY.png)  
+
 
 8月21日 周三  
 換了新的手機號
