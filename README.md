@@ -182,5 +182,7 @@ p8对立问题。 研究打点计时器。
 </details>  
 
 ``` bash
-©2017-2019 喵喵同學
+Copyright © 2017-2019  
+喵喵同學&彭信 All rights reserved.  
+郵箱：pengthin670@gmail.com
 ```
