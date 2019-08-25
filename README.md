@@ -66,6 +66,12 @@ Blog home page jumps to
 <details>
   <summary><b>聯繫</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="微信" style="max-width:100%;">
+</details>  
+ 
+<details>
+  <summary><b>自拍/TA拍</b></summary>
+  <img src="https://s2.ax1x.com/2019/08/25/mgSkh4.md.png" alt="微信" style="max-width:100%;">
+  <img src="https://s2.ax1x.com/2019/08/25/mgSKHK.md.png" alt="微信" style="max-width:100%;">
 </details>
 
 <details>
