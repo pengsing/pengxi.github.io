@@ -72,7 +72,13 @@ Blog home page jumps to
   <summary><b>自拍/TA拍</b></summary>
   <img src="https://s2.ax1x.com/2019/08/25/mgSkh4.md.png" alt="微信" style="max-width:100%;">
   <img src="https://s2.ax1x.com/2019/08/25/mgSKHK.md.png" alt="微信" style="max-width:100%;">
-</details>
+</details>  
+
+<details>
+  <summary><b>初中の记忆</b></summary>
+  <img src="https://s2.ax1x.com/2019/08/25/mgpfsI.md.png" style="max-width:100%;">
+  <img src="https://s2.ax1x.com/2019/08/25/mgpxe0.png" style="max-width:100%;">
+</details>  
 
 <details>
 <summary>2019の暑假篇</summary>
