@@ -38,7 +38,7 @@ Blog home page jumps to
 
 
 8月24日 周六  
-东京喰种  
+东京喰种——连配乐都会被禁的动漫，丧心病狂。  
 感觉不是日漫变得没有哲学性啊，而是有哲学性的都被禁了  
 
 ![freeCodeCamp.org
