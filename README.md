@@ -18,6 +18,11 @@ Peng Xin’s personal blog page records the moments of life, sharing the experie
 ```  
 8月24日 周六  
 东京喰种  
+感觉不是日漫变得没有哲学性啊，而是有哲学性的都被禁了  
+
+![freeCodeCamp.org
+](https://tb2.bdstatic.com/tb/editor/images/client/image_emoticon25.png)
+  
 ![1566701550285.png
 ](https://i.loli.net/2019/08/25/Bz2RLrbMZ8tAe3x.png)  
 
