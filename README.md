@@ -9,9 +9,12 @@ Peng Xin’s personal blog page records the moments of life, sharing the experie
  Love life, love to learn, love philosophy, and like to touch new things.
  Everything in life, laughing and opening, adhering to oneself, cautiously acting alone.
 
- Blog home page jumps to www.pengxin.mycool.net  
+   
 </details>  
 
+Blog home page jumps to   
+[www.pengxin.mycool.net
+](http://www.pengxin.mycool.net)
 ```bash   
 2019の高一新篇開啦 
 新的開始
