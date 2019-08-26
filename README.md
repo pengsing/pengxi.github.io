@@ -183,7 +183,7 @@ p8对立问题。 研究打点计时器。
 </details>  
 
 * * *  
-*我已公开的娱乐*
+*我已公开的娱乐|娱乐区P L A Y*
 >*常逛网站*  
 [萌娘百科
 ](https://mzh.moegirl.org/zh-hans/%E7%BB%B4%E5%9F%BA%E5%A8%98)  
@@ -205,13 +205,22 @@ p8对立问题。 研究打点计时器。
 [路过图床
 ](https://imgchr.com/)  
 >>动漫/漫画  
+>>>喜欢的歌手
 <details>  
 <summary>看过的Anime</summary>  
-日常:《轻音少女》《这个美术部大有问题》《辉夜大小姐想让我告白》《日常》    哲系《东京喰种》《杀戮天使》《fate stay night》
+日常:《轻音少女》《这个美术部大有问题》《辉夜大小姐想让我告白》《日常》...    哲系《东京喰种》《杀戮天使》《fate stay night》...  
+异世界:《为美好的世界献上祝福》《从零开始的异世界生活》...
 
-</details>
+</details>  
+
+<details>
+  <summary>喜欢歌手</summary>
+爱缪aimyon、TK等  
+
+</detail>    
 
 
+  
 ``` bash
 Copyright © 2017-2019  
 Pengxin All rights reserved.  
