@@ -183,8 +183,27 @@ p8对立问题。 研究打点计时器。
 </details>  
 
 * * *  
+*我已公开的娱乐*
+>*常逛网站*  
+[萌娘百科
+](https://mzh.moegirl.org/zh-hans/%E7%BB%B4%E5%9F%BA%E5%A8%98)  
+[维基百科
+](https://wikipediam.tw.wjbk.site/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)  
+[天涯
+](https://bbs.tianya.cn/m/hotArticle.jsp)  
+[动漫粉
+](https://donghua.agefans.com/)  
+[煎蛋
+](http://jandan.net)  
+>工具栏  
+[图片转png
+](http://pic.55.la/)  
+[图床
+](https://sm.ms/)  
+[路过图床
+](https://imgchr.com/)  
 
-*我的娱乐*
+
 
 
 ``` bash
