@@ -29,7 +29,6 @@ Blog home page jumps to
 ](https://s2.ax1x.com/2019/08/25/mg9lSH.md.png)  
 听了高桥优的吃醋。
 
-
 8月24日 周六  
 东京喰种——连配乐都会被禁的动漫，丧心病狂。  
 感觉不是日漫变得没有哲学性啊，而是有哲学性的都被禁了  
@@ -217,7 +216,7 @@ p8对立问题。 研究打点计时器。
   <summary>喜欢歌手</summary>
 爱缪aimyon、TK等  
 
-</detail>    
+</details>    
 
 
   
