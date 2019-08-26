@@ -217,9 +217,11 @@ p8对立问题。 研究打点计时器。
   <summary>喜欢歌手</summary>
 爱缪aimyon、TK等  
 
-</details> 
-![.](https://s2.ax1x.com/2019/08/26/mWwXLT.gif)  
- 
+</details>  
+
+![
+](https://s2.ax1x.com/2019/08/26/mWwXLT.gif)  
+   
 *失恋小故事*  
 
 
