@@ -2,21 +2,14 @@
 ](https://i.loli.net/2019/08/22/nEiKBQVxPU4vcYf.gif)  
 
 <details>
-<summary>前提</summary>
-①为方便我个人记录，本博客默认可以引用我周围人真实姓名及图片。
-
-②如果不同意以上可以加微信px86ax,进行删除相关。  
-
+<summary>浏览前提</summary>
+①因出于纪实，本博客默认可以引用我周围人真实姓名及图片。②如不同意上一条可以加微信px86ax回复进行删除相关。③默认在周日或者我学习空余之时更新博客内容。  
 </details>
 
 <details open>
   <summary><b>博客介紹細節</b></summary>
 
-Peng Xin’s personal blog page records the moments of life, sharing the experience of learning, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.
-
- Love life, love to learn, love philosophy, and like to touch new things.
- Everything in life, laughing and opening, adhering to oneself, cautiously acting alone.
-
+Peng Xin’s personal blog page records the moments of life, sharing the experience of learning, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to touch new things.  
    
 </details>  
 
@@ -34,7 +27,8 @@ Blog home page jumps to
 我都换好多药了(有没有弄好的前辈告诉我一声)，一点效果也没有。汗斑这个👻东西,我都有点怕贵族气质毁掉。  
 我又买了这个，刺鼻又灼肤，一想到我就头大。(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)影响学习因素如此之多，不除，高中难啊。  
 ![
-](https://s2.ax1x.com/2019/08/25/mg9lSH.md.png)
+](https://s2.ax1x.com/2019/08/25/mg9lSH.md.png)  
+听了高桥优的吃醋。
 
 
 8月24日 周六  
@@ -191,6 +185,5 @@ p8对立问题。 研究打点计时器。
 
 ``` bash
 Copyright © 2017-2019  
-喵喵同學&彭信 All rights reserved.  
-郵箱：pengthin670@gmail.com
+Pengxin All rights reserved.  
 ```
