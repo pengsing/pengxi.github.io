@@ -2,13 +2,13 @@
 
 <details>
 <summary>浏览前提</summary>
-①因出于纪实，本博客默认可以引用我周围人真实姓名及图片。②如不同意上一条可以加微信px86ax回复进行删除相关。③默认在周日或者我学习空余之时更新博客内容。  
+①因出于纪实原因，本博客默认可以引用我周围人真实姓名及图片。②如不同意上一条可以加微信px86ax回复进行删除相关。③默认在周日或者我学习空余之时更新博客内容。  
 </details>
 
 <details open>
   <summary><b>博客介紹細節</b></summary>
 
-Peng Xin’s personal blog page records the moments of life, sharing the experience of learning, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to touch new things.  
+Pengxin’s blog records the moments of life, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to touch new things.  
    
 </details>  
 
