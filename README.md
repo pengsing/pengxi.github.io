@@ -193,6 +193,8 @@ p8对立问题。 研究打点计时器。
 ](https://bbs.tianya.cn/m/hotArticle.jsp)  
 [动漫粉
 ](https://donghua.agefans.com/)  
+[4chan
+](https://www.4chan.org/)  
 [煎蛋
 ](http://jandan.net)  
 >工具栏  
@@ -202,8 +204,12 @@ p8对立问题。 研究打点计时器。
 ](https://sm.ms/)  
 [路过图床
 ](https://imgchr.com/)  
+>>动漫/漫画  
+<details>  
+<summary>看过的Anime</summary>  
+日常:《轻音少女》《这个美术部大有问题》《辉夜大小姐想让我告白》《日常》    哲系《东京喰种》《杀戮天使》《fate stay night》
 
-
+</details>
 
 
 ``` bash
