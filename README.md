@@ -1,4 +1,4 @@
-![mmexport1566734295579.gif](https://i.loli.net/2019/08/26/JpQGhzmMN9A35PX.gif)  
+![1566873632790.png](https://i.loli.net/2019/08/27/A9UaD4ncPrmszMb.png)  
 *地球上沒有新鮮事ヾ(❀╹◡╹)ﾉ~*
 <details>
 <summary>浏览前提</summary>
