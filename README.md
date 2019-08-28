@@ -8,7 +8,7 @@
 <details open>
   <summary><b>博客介紹細節</b></summary>
 
-Pengxin ’ s blog records the moments of life, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to touch new things.  
+Pengxin ’ s blog records the moments of life, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to explore new things.  
    
 </details>  
 
