@@ -3,19 +3,24 @@
 <details>
 <summary>浏览前提</summary>
 ①纪实为了方便周围人了解我的想法及事件解释，无别意义。出于纪实原因，默认可以引用我周围人真实姓名及图片,且纪录均基于事实。②如不同意上一条可以加px86ax回复进行删除相关。③默认在周日或者我学习空余之时更新博客内容。④个人主观性会比较重。  
-</details>
-
-<details open>
-  <summary><b>博客介紹細節</b></summary>
-
-Pengxin ’ s blog records the moments of life, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to explore new things.  
-   
 </details>  
-
-Blog home page jumps to   
+<details open>  
+  <summary><b>博客介紹細節</b></summary>
+Pengxin ’ s blog records the moments of life, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to explore new things.  
+</details>  
+  
 [www.pengxin.mycool.net
 ](http://www.pengxin.mycool.net)  
-
+  
+*内容跳转*  
+---  
+[2019の高一新篇](#2019の高一新篇)  
+[2019の暑假篇](#2019の暑假篇)  
+[我の娱乐](#我の娱乐)  
+[我の碎片記憶](#我の碎片記憶)  
+[個人易誤解事件說明](#個人易誤解事件說明)  
+[我の黑历史](#我の黑历史)  
+   
 [![NPM version
 ](https://s2.ax1x.com/2019/08/29/mLdLLD.png)](https://www.lanzous.com/i5sai1c)   
   
@@ -138,7 +143,7 @@ p8对立问题。 研究打点计时器。 
 >8月17日 周一   
 早上梦见一个初中同学，差点破戒，吓死我了。 博客开通。  
   
-*我个人的娱乐|娱乐区P L A Y*  
+*我の娱乐*  
 ---  
 >*常逛网站*  
 [萌娘百科
@@ -178,7 +183,7 @@ p8对立问题。 研究打点计时器。 
 
    
    
-*碎片記憶｜很深的東西我才記得*  
+*我の碎片記憶*  
 ---  
 >思鏊老师(如果没记错，应该是叫这个，我小学五年级英语老师)给了我一本《笑猫日记》。印象特别深,因为从这个暑假开始，我就和好盆友富进关系恶化,後來他還專門找我打架，打架的原因是因為他認為我宣他喜歡的人(优游)。我當時相當不解和氣憤。  
 ![freeCodeCamp.org
@@ -203,7 +208,7 @@ p8对立问题。 研究打点计时器。 
 >>>肖同學相關  
 她是我朋友，不是情人。我也沒把她當做情人看待過，不過她貌似誤解了。後來她説互刪好友(我沒有刪)。
   
-*黑   历   史*  
+*我の黑历史*  
 ---    
 *军训意外*  
 >初一军训期间，在一天晚上，在宿舍搞弄的时候，康城同学(我初一的同班同学)不知被其他舍友拿走了什么，被扔来扔去。不知怎的扔到我后面，我当时也喜欢搞啊，然后转身我一踢就踹到了他扑过来的眼睛(在此感到歉意,不过我真的不是故意的)。然后就被副教官训了一顿。  
