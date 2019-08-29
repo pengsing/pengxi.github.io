@@ -18,6 +18,7 @@ Blog home page jumps to
 
 [![NPM version
 ](https://s2.ax1x.com/2019/08/25/mcxS8s.png)](https://www.lanzous.com/i5sai1c)   
+  
 2019の高一新篇   
 ---
 >8月29日 周四  
