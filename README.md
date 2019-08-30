@@ -13,6 +13,7 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
 <details open>
    <summary><b>輕小說説明</b></summary>
 這是一部与我同路線的輕小說《日常Train》，我將在這個博客長期更新。我是本作的男主~~  
+最近一次更新时间:2019-8-30  
 </details>  
   
 [www.pengxin.mycool.net
