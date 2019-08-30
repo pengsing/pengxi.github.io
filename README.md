@@ -26,6 +26,7 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
 [我の碎片記憶](#我の碎片記憶)                [2018初二黑篇](#2018初二黑篇)  
 [個人易誤解事](#個人易誤解事件說明)            [2019初三红篇](＃2018初二黑篇)  
 [我の黑历史呀](#我の黑历史)                   [军训番外篇](#军训番外篇)  
+[初中记忆相册](#初中の记忆)
    
 [![NPM version
 ](https://s2.ax1x.com/2019/08/29/mLdLLD.png)](https://www.lanzous.com/i5sai1c)   
@@ -75,17 +76,22 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
   <summary><b>聯繫</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="微信" style="max-width:100%;">
 </details>  
- 
+  
+初中の记忆  
+---  
 <details>
   <summary><b>自拍/TA拍</b></summary>
   <img src="https://s2.ax1x.com/2019/08/25/mgSkh4.md.png" alt="微信" style="max-width:100%;">
   <img src="https://s2.ax1x.com/2019/08/25/mgSKHK.md.png" alt="微信" style="max-width:100%;">
 </details>  
 
-<details>
+<details open>
   <summary><b>初中の记忆</b></summary>
   <img src="https://s2.ax1x.com/2019/08/25/mgpfsI.md.png" style="max-width:100%;">
   <img src="https://s2.ax1x.com/2019/08/25/mgpxe0.png" style="max-width:100%;">
+  <img src="https://i.loli.net/2019/08/30/EJvzByHDimYoP1n.png" alt="微信" style="max-width:100%;">
+  <img src="https://i.loli.net/2019/08/30/fQDWtuq3pS2UIgC.png" alt="微信" style="max-width:100%;">
+  <img src="https://s2.ax1x.com/2019/08/30/mX0VBT.md.png" alt="微信" style="max-width:100%;">
 </details>
   
 2019の暑假篇  
