@@ -25,7 +25,7 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
 [我の娱乐快樂](#我の娱乐)  
 [我の碎片記憶](#我の碎片記憶)  
 [個人易誤解事](#個人易誤解事件說明)  
-[我の黑历史 ](#我の黑历史)  
+[我の黑历史呀](#我の黑历史)  
    
 [![NPM version
 ](https://s2.ax1x.com/2019/08/29/mLdLLD.png)](https://www.lanzous.com/i5sai1c)   
