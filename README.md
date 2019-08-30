@@ -26,8 +26,9 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
 [我の碎片記憶](#我の碎片記憶)                [2018初二黑篇](#2018初二黑篇)  
 [個人易誤解事](#個人易誤解事件說明)            [2019初三红篇](＃2018初二黑篇)  
 [我の黑历史呀](#我の黑历史)                   [军训番外篇](#军训番外篇)  
-[初中记忆相册](#初中の记忆)                   [和我尷聊唄](#和我尷聊)
-   
+[初中记忆相册](#初中の记忆)                   [和我尷聊唄](#和我尷聊)  
+[2013-2014期间记录](#2013-2014期间记录)
+  
 [![NPM version
 ](https://s2.ax1x.com/2019/08/29/mLdLLD.png)](https://www.lanzous.com/i5sai1c)   
   
@@ -466,10 +467,16 @@ deep dark fears
 早上回家，内心还是有点奔溃的。bye~  
 冲锋陷阵，我连必胜。  
 
-<details>
+<details open>
   <summary><b>军训留念</b></summary>
   <img src="https://s2.ax1x.com/2019/08/30/mXGGBd.md.png" alt="微信" style="max-width:100%;">
 </details>  
+
+2013-2014期间记录  
+---  
+![1567148966757_1.png
+](https://i.loli.net/2019/08/30/yEvDc58AmgLkwjY.png)  
+有时间就补录(因时间原因破旧难以扫描)。
   
 
 
