@@ -9,18 +9,23 @@
   <summary><b>博客介紹細節</b></summary>
 Pengxin ’ s blog records the moments of life, feeling the life, keeping the impression, and quietly searching for the beauty of life.  From Guangdong, studying at Hepo Middle School.love philosophy, and like to explore new things.  
 </details>  
+
+<details open>
+   <summary><b>輕小說説明</b></summary>
+這是一部与我同路線的輕小說《日常Train》，我將在這個博客長期更新。我是本作的男主~~  
+</details>  
   
 [www.pengxin.mycool.net
 ](http://www.pengxin.mycool.net)  
   
-*内容跳转*  
+*轻小说内容*  
 ---  
-[2019の高一新篇](#2019の高一新篇)       [2015五年级篇](#2015五年级篇)  
+[2019の高一篇](#2019の高一新篇)          [2015五年级篇](#2015五年级篇)  
 [2019の暑假篇](#2019の暑假篇)  
-[我の娱乐](#我の娱乐)  
+[我の娱乐快樂](#我の娱乐)  
 [我の碎片記憶](#我の碎片記憶)  
-[個人易誤解事件說明](#個人易誤解事件說明)  
-[我の黑历史](#我の黑历史)  
+[個人易誤解事](#個人易誤解事件說明)  
+[我の黑历史 ](#我の黑历史)  
    
 [![NPM version
 ](https://s2.ax1x.com/2019/08/29/mLdLLD.png)](https://www.lanzous.com/i5sai1c)   
