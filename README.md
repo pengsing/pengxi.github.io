@@ -26,7 +26,7 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
 [我の碎片記憶](#我の碎片記憶)                [2018初二黑篇](#2018初二黑篇)  
 [個人易誤解事](#個人易誤解事件說明)            [2019初三红篇](＃2018初二黑篇)  
 [我の黑历史呀](#我の黑历史)                   [军训番外篇](#军训番外篇)  
-[初中记忆相册](#初中の记忆)
+[初中记忆相册](#初中の记忆)                   [和我尷聊](#和我尷聊)
    
 [![NPM version
 ](https://s2.ax1x.com/2019/08/29/mLdLLD.png)](https://www.lanzous.com/i5sai1c)   
@@ -70,10 +70,13 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
 走出一個月循環怪圈✔。值得我留念。  
 `念頭管理/情緒管理/視線管理/言行管理。`
 >8月18-19日 周一（一周目）  
-習慣了Markdown语法。
-
-<details>
-  <summary><b>聯繫</b></summary>
+習慣了Markdown语法。  
+  
+和我尷聊  
+---  
+  
+<details open>
+  <summary><b>和我尷聊</b></summary>
   <img src="https://s2.ax1x.com/2019/08/18/mMf2GV.png" alt="微信" style="max-width:100%;">
 </details>  
   
