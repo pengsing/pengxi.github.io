@@ -35,8 +35,11 @@ Pengxin ’ s blog records the moments of life, feeling the life, keeping the im
   
 2019の高一新篇   
 ---
->8月29日 周四  
-准备每过一个整十天一个自拍对比变化,没错，我就是这个博客的男主。  
+>9月9日 周一(三周目)  
+![
+](https://s2.ax1x.com/2019/09/10/nN7Ne1.png)  
+8月29日 周四  
+准备去河中楼。  
 ![
 ](https://s2.ax1x.com/2019/08/29/mLCC7t.png)  
 >8月25日 周二（二周目）  
